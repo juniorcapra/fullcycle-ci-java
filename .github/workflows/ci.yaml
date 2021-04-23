@@ -5,5 +5,4 @@ steps:
     distribution: 'zulu' # See 'Supported distributions' for available options
     java-version: '11'
 - run: mvn test
-- run: java -cp java my-app
 
